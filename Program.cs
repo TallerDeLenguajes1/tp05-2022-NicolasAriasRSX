@@ -26,7 +26,7 @@ do
                 resultado= num1 / num2;
             }else{
                 Console.WriteLine("No esta definida la divicion en 0");
-                resultado= 000000000;
+                resultado= 0;
             }
             break;
         default:
